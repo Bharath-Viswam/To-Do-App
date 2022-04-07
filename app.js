@@ -1,4 +1,4 @@
-let regexp_ob_1 = /admin/i;
+let regexp_ob_1 = /admin/;
 let regexp_ob_2 = /12345/i;
 let email_label = document.getElementById('email_label');
 let pwd_label = document.getElementById('pwd_label');
